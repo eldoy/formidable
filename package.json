@@ -56,7 +56,7 @@
     "prettier": "2.0.5",
     "prettier-plugin-pkgjson": "0.2.8",
     "request": "2.88.2",
-    "supertest": "4.0.2",
+    "supertest": "6.1.3",
     "urun": "0.0.8",
     "utest": "0.0.8"
   },
